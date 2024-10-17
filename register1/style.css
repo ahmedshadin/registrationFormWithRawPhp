@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background-color: #34495e;
+}
+.register {
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 20px 30px;
+    background-color: #00b894;
+}
+.login {
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 20px 30px;
+    background-color: #7f8c8d;
+}
+.warning {
+    color: red;
+    font-style: italic;
+}
+.gap {
+    margin: 8px 0;
+}
+.success {
+    color: green;
+    font-style: italic;
+}
+.not_match {
+    color: red;
+    font-style: italic;
+}
+
+.not_exits {
+    color: red;
+    font-style: italic;
+}
+

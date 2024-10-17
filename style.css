@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+.register {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: aquamarine;
+    padding: 15px 30px;
+}
+.gap {
+    margin: 5px 0;
+}
+.warning {
+    color: red;
+    font-style: italic;
+}
+.success {
+    color: green;
+    font-style: italic;
+}
